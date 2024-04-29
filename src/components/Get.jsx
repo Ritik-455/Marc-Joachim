@@ -8,7 +8,7 @@ import leftellips from '../assets/images/left-ellips.png'
 function Get() {
     return (
         <>
-            <section className=' position-relative'>
+            <section className=' position-relative' id="benifits">
                 <div className="container-2 pb-coaching">
                     <p className=' ff-poppins fw-normal text-16 lh-25 text-black text-center mb-0  mt-42'>You are not alone! Numerous women before you stood exactly at this point, where you are now.</p>
                     <div className="d-flex justify-content-center">

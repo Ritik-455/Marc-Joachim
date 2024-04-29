@@ -947,6 +947,11 @@ hr {
     padding-top: 71px;
     padding-bottom: 59px;
   }
+
+  .text-pos3 {
+    top: -17%;
+    right: -2%;
+  }
 }
 
 @media (max-width:992px) {
